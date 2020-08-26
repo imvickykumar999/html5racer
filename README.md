@@ -3,6 +3,7 @@ html5racer
 
 Giving a simple canvas racer a go
 
+![](https://github.com/imvickykumar999/html5racer/blob/master/2020-08-26%20(2).png)
 
 Articles which I can draw inspiration and help from
 ===================================================
